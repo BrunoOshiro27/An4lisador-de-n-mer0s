@@ -1,0 +1,29 @@
+body{
+    background-color: #3A7ED2;
+    font: 18px arial;
+}
+header{
+    text-align: center;
+    color:white
+}
+main{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px black;
+
+}
+#list{
+    width: 165px;
+    overflow: scroll;
+}
+#res{
+    text-align: center;
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
